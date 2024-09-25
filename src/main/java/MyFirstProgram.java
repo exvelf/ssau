@@ -1,4 +1,4 @@
-import MyFirstPackage.*;
+import MyFirstPackage.MySecondClass;
 
 class MyFirstClass {
     public static void main(String[] args){
